@@ -1,1 +1,0 @@
-# simulatore_mobile
